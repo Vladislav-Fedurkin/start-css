@@ -1,0 +1,84 @@
+.wrapper-1 {
+    position: absolute;
+    left: 660px;
+    top: 80px;
+}
+.the-first {
+    width: 458px;
+    height: 678px;
+    background: gray;
+    border: 2px solid black;
+}
+.marker {
+    position: relative;
+    width: 45px;
+    left: 440px;
+    height: 33px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: blue;
+    display: block;
+}
+.second {
+    position: relative;
+    left: 640px;
+    top: 50px;
+    width: 458px;
+    height: 678px;
+    background: rgb(167, 173, 173);
+    border: 2px solid black;
+}
+.marker-2 {
+    position: relative;
+    width: 49px;
+    left: 440px;
+    height: 33px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: greenyellow;
+    display: block; 
+}
+.list-3 {
+    position: relative;
+    padding: 10px;
+    left: 600px;
+    top: -670px;
+    width: 458px;
+    height: 678px;
+    background: rgb(219, 211, 214);
+    border: 2px solid black;
+}
+.orange {
+    position: relative;
+    width: 74px;
+    left: 430px;
+    height: 33px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: orange;
+    display: block; 
+}
+.try {
+    float: left;
+}
+.free {
+    float: right;
+}
+.one {
+    float: left;
+}
+.two {
+    float: right;
+}
+.freaks {
+    float: right
+}
+.korzh {
+    float: left;
+}
+.ara {
+    position: relative;
+    left: 1003px;
+    top: 200px;
+    display: block;
+}
